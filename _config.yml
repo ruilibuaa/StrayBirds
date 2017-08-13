@@ -7,8 +7,3 @@ title: 飞鸟集
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: kunka
 disqusname: minixalpha
-source: .
-destination: ./_site
-plugins: ./_plugins
-layouts: ./_layouts
-paginate: 8
