@@ -2,7 +2,6 @@ source: .
 destination: ./_site
 plugins: ./_plugins
 layouts: ./_layouts
-paginate: 8
 
 safe: false
 include: [".htaccess"]
