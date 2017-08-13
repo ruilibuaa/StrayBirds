@@ -1,3 +1,7 @@
+permalink: date
+paginate_path: /page:num
+timezone: null
+
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
