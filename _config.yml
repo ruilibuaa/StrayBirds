@@ -1,4 +1,4 @@
-source:       .
+source: .
 destination: ./_site
 layouts: ./_layouts
 paginate: 8
