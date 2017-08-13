@@ -48,6 +48,10 @@ customLinks:
       url: http://jquery.com/
     message: 其他相关链接
     
+disqus:
+  config: false
+id: minixalpha
+    
 username: ruilibuaa
 baseurl: /StrayBirds
 markdown: redcarpet
