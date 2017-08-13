@@ -1,3 +1,8 @@
+markdown: kramdown
+highlighter: pygments
+lsi: false
+excerpt_separator: "\n\n"
+
 detach: false
 port: 4000
 host: 127.0.0.1
