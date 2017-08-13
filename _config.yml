@@ -1,3 +1,8 @@
+detach: false
+port: 4000
+host: 127.0.0.1
+baseurl: "" 
+
 permalink: date
 paginate_path: /page:num
 timezone: null
