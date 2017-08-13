@@ -1,3 +1,4 @@
+layouts: ./_layouts
 paginate: 8
 
 safe: false
