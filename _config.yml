@@ -15,6 +15,20 @@ author:
     email: xkzbeta@outlook.comment
     imageLink: https://avatars.githubusercontent.com/minixalpha
     simpleIntro: 我是 minixalpha
+
+follow:
+  - class: icon-rss
+    url: /atom.xml
+  - class: icon-weibo
+    url: http://weibo.com
+  - class: icon-renren
+    url: http://renren.com
+  - class: icon-github-alt
+    url: http://github.com
+  - class: icon-twitter
+    url: http://twitter.com
+  - class: icon-google-plus
+    url: http://google.com
     
 username: ruilibuaa
 baseurl: /StrayBirds
